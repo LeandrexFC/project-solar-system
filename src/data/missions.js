@@ -9,7 +9,6 @@ const Missions = [
     country: USA,
     destination: 'Vênus',
   },
-
   {
     name: 'Venera 4',
     year: '1967',
